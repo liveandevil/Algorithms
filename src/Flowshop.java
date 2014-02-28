@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 public class Flowshop {
 /**
-**测试添加
+**测试添加 网页添加
 **/
 	static int n;
 	static int[] x;
